@@ -381,7 +381,7 @@
                   <div class="col-md-2 text-center story-date-wrapper animation fadeIn">
                    <div class="arrow-left"></div>
                    <div class="story-date">
-                     <div class="date-only">04</div>
+                     <div class="date-only">02</div>
                      <div class="month-year">02.14</div>
                    </div>
                    <div class="arrow-right"></div>
@@ -514,7 +514,7 @@
         <div class="row">
          <div class="col-md-12 text-center">
            <div id="end-of-story" class="animation fadeInUp">
-             <h2>E LOGO NOS VAMOS NOS CASAR</h2>
+             <h2>E LOGO NÓS VAMOS NOS CASAR</h2>
              <div class="heart-divider">
                <span class="grey-line"></span>
                <i class="de-icon-heart pink-heart"></i>
@@ -572,7 +572,7 @@
           </div>
         </div>
         <div class="col-md-4">
-         <h3>CASA BRANCA - ALTO DA BOA VISTA</h3>
+         <h3>Casa Fróes - São Francisco - Niterói</h3>
        </div>
 
      </div>
@@ -592,14 +592,14 @@
    <i class="de-icon-heart-1"></i>
  </div>
  <h3 class="inline">CERIMÔNIA &amp; RECEPÇÃO</h3>
- <p>Nossa cerimônia acontecerá na Casa Branca - Estrada Velha da Tijuca, 2400 - Alto da Boa Vista. Começaremos às 20 horas e logo depois teremos uma recepção
+ <p>Nossa cerimônia acontecerá na <a href="http://casafroes.com.br/" target="_blank">Casa Fróes - Alameda Jandira Fróes, 42 - São Francisco, Niterói - RJ, 24360-017</a>. Começaremos às 20 horas e logo depois teremos uma recepção
    para comemorar com todos vocês o nosso casamento.</p>
 
    <div class="de-icon circle small-size inline" style="background-color:#f6700e">
      <i class="de-icon-cab"></i>
    </div>
    <h3 class="inline">TRANSPORTE</h3>
-   <p>O local conta com vallet se você for de carro, porém recomendamos que utilize Uber/Taxi ou que alugue uma van com convidados próximos para que possa aproveitar a festa sem se preocupar com a volta.</p>
+   <p>O local conta com estacionamento se você for de carro, porém recomendamos que utilize Uber/Taxi ou que alugue uma van com convidados próximos para que possa aproveitar a festa sem se preocupar com a volta.</p>
 
    <div class="de-icon circle small-size inline" style="background-color:#0d9a48">
      <i class="de-icon-home-1"></i>
