@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta name="description" content="">
-  <meta name="author" content="www.dethemes.com">
+  <meta name="author" content="Carol e Caio">
   <title>Carol &amp; Caio - SAVE THE DATE 09/07/2016</title>
 
   <link rel="icon" href="images/favicon.jpg">
@@ -456,8 +456,8 @@
               <div class="col-md-2 text-center story-date-wrapper animation fadeIn">
                <div class="arrow-left"></div>
                <div class="story-date">
-                 <div class="date-only">04</div>
-                 <div class="month-year">02.14</div>
+                 <div class="date-only">30</div>
+                 <div class="month-year">10.15</div>
                </div>
                <div class="arrow-right"></div>
                <div class="clearboth"></div>
@@ -494,8 +494,8 @@
             <div class="col-sm-12 col-md-2 text-center story-date-wrapper animation fadeIn">
              <div class="arrow-left"></div>
              <div class="story-date">
-               <div class="date-only">05</div>
-               <div class="month-year">04.15</div>
+               <div class="date-only">28</div>
+               <div class="month-year">11.15</div>
              </div>
              <div class="arrow-right"></div>
              <div class="clearboth"></div>
